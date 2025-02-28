@@ -1,3 +1,6 @@
+// entrer la clée api
+const token = "";
+
 export function getMovieWithPaginate()
 {
     const request = "";
