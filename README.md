@@ -1,3 +1,7 @@
+#API
+pour que l'application fonctionne vous êtes prier d'entrer la clé api dans le fichier _RequestApi.jsx, situé a l'emplecement "src/component/DB-API/_requestApi.jsx" ligne 1
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
