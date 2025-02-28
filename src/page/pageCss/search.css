@@ -1,0 +1,17 @@
+.list-content ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style: none;
+}
+.list-content ul li {
+  margin: 5% 2%;
+  width: 25%;
+  height: 50vh;
+}
+.list-content ul li img {
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+}/*# sourceMappingURL=search.css.map */

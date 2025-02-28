@@ -1,0 +1,31 @@
+.main-poster{
+    width: 80%;
+    height: 10%;
+    margin: 3% auto;
+    display: flex;
+    img{
+        width: 70%;
+        border-radius: 10px;
+    }
+    ul{
+        width: 30%;
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        .list-genre{
+            width: 50%;
+            margin: 0 auto;
+            flex-direction: row;
+        }
+    }
+}
+
+.list-last-movie{
+    height: fit-content;
+    width: 97%;
+    margin: 0 auto;
+    a{
+        width: 15%;
+    }
+}

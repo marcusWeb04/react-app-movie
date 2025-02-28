@@ -1,0 +1,32 @@
+.main-poster {
+  width: 80%;
+  height: 10%;
+  margin: 3% auto;
+  display: flex;
+}
+.main-poster img {
+  width: 70%;
+  border-radius: 10px;
+}
+.main-poster ul {
+  width: 30%;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.main-poster ul .list-genre {
+  width: 50%;
+  margin: 0 auto;
+  flex-direction: row;
+}
+
+.list-last-movie {
+  height: -moz-fit-content;
+  height: fit-content;
+  width: 97%;
+  margin: 0 auto;
+}
+.list-last-movie a {
+  width: 15%;
+}/*# sourceMappingURL=movieDetail.css.map */
